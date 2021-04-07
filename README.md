@@ -1,2 +1,22 @@
-# Explapi
-exploits.shodan.io's unofficial api no api-key needed
+<h1 align="center">
+  <br>
+  <a href="https://github.com/System00-Security/Explapi/"><img src="https://i.ibb.co/yhxJ85m/api-shodan.png" alt="Expapi"></a>
+  <br>
+    ExpApi
+  <br>
+</h1>
+<h4 align="center">Unofficial api of exploits.shodan.io</h4>
+    <p align="center">
+  <a href="https://github.com/System00-Security/Explapi">
+    <img src="https://img.shields.io/static/v1?label=Project&message=Expapi&color=green">
+  </a>
+  <a href="https://twitter.com/0xjoyghosh">
+      <img src="https://img.shields.io/twitter/follow/0xjoyghosh?style=social">
+  </a>
+</p>
+
+### Why ExpApi ??
+
+- It Doesn't need any shodan api key
+- Hackable (You can customize it and add more result)
+- MultiOs Supported
