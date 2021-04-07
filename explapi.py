@@ -36,4 +36,4 @@ try:
 except KeyboardInterrupt:
   print("CTRL+C Detected Stoping")
 except:
-  print("Something else went wrong")
+  exit()
